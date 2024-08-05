@@ -1,0 +1,15 @@
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 70px;
+    padding: 500px;
+}
+
+img{
+    width: 50px;
+}
+
+
+
+
